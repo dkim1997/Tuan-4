@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan 4", "Tuan 4\Tuan 4.csproj", "{470199D0-593E-4ABF-93C1-AD43B801CF9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcpclient", "tcpclient\tcpclient.csproj", "{5D28FC2B-CC44-489B-9268-E7438F81C97A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470199D0-593E-4ABF-93C1-AD43B801CF9D}.Debug|x86.ActiveCfg = Debug|x86
+		{470199D0-593E-4ABF-93C1-AD43B801CF9D}.Debug|x86.Build.0 = Debug|x86
+		{470199D0-593E-4ABF-93C1-AD43B801CF9D}.Release|x86.ActiveCfg = Release|x86
+		{470199D0-593E-4ABF-93C1-AD43B801CF9D}.Release|x86.Build.0 = Release|x86
+		{5D28FC2B-CC44-489B-9268-E7438F81C97A}.Debug|x86.ActiveCfg = Debug|x86
+		{5D28FC2B-CC44-489B-9268-E7438F81C97A}.Debug|x86.Build.0 = Debug|x86
+		{5D28FC2B-CC44-489B-9268-E7438F81C97A}.Release|x86.ActiveCfg = Release|x86
+		{5D28FC2B-CC44-489B-9268-E7438F81C97A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

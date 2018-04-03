@@ -1,0 +1,4 @@
+D:\Tuan 4\tcpclient\bin\Debug\tcpclient.exe
+D:\Tuan 4\tcpclient\bin\Debug\tcpclient.pdb
+D:\Tuan 4\tcpclient\obj\x86\Debug\tcpclient.exe
+D:\Tuan 4\tcpclient\obj\x86\Debug\tcpclient.pdb
